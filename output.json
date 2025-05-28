@@ -1,0 +1,18 @@
+[
+  {
+    "model": "gpt-3.5-turbo",
+    "temperature": 0,
+    "max_tokens": 50,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "output": "Introducing the ultimate running companion "
+  },
+  {
+    "model": "gpt-3.5-turbo",
+    "temperature": 0.7,
+    "max_tokens": 50,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "output": "Introducing the next evolution in running footwear - the new generation running shoe! Engineered to provide unparalleled per"
+  }
+]

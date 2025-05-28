@@ -1,0 +1,9 @@
+{
+  "name": "interactive-prompt-playground",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "openai": "^4.103.0"
+  }
+}
