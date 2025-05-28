@@ -6,31 +6,33 @@ This is a Node.js-based playground to explore how different OpenAI model paramet
 
 ## 🚀 How to Run the Playground
 
-**Clone the Repository:**
+1**Clone the Repository:**
 
 git clone https://github.com/rasheed8123/interactive-prompt-playground.git
 
 cd interactive-prompt-playground
 
-
-**Install Dependencies:**
+--- 
+2**Install Dependencies:**
 
 
 npm install
 
-**Add Your OpenAI API Key:**
+---
+
+3**Add Your OpenAI API Key:**
 
 Create a .env file with the following contents:
 
 OPENAI_API_KEY=your-api-key-here
 
-
-**Run the Playground:**
+--- 
+4**Run the Playground:**
 
 node playground.js
 The script will generate combinations of parameters and output results to output.json.
 
-
+---
 🛠 Features
 Model Selection: gpt-3.5-turbo, gpt-4
 
@@ -48,7 +50,11 @@ Model Selection: gpt-3.5-turbo, gpt-4
 
 7.Stop Sequences:  "."
 
+---
+
 Output: Saved to output.json with full configuration context for each result
+
+---
 
 📊 Sample Output Grid
 Model	        Temp	Max   Tokens	Freq  Penalty	Presence Penalty	Output Snippet
