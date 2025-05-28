@@ -6,28 +6,28 @@ This is a Node.js-based playground to explore how different OpenAI model paramet
 
 ## 🚀 How to Run the Playground
 
-1**Clone the Repository:**
+1.**Clone the Repository:**
 
 git clone https://github.com/rasheed8123/interactive-prompt-playground.git
 
 cd interactive-prompt-playground
 
 --- 
-2**Install Dependencies:**
+2.**Install Dependencies:**
 
 
 npm install
 
 ---
 
-3**Add Your OpenAI API Key:**
+3.**Add Your OpenAI API Key:**
 
 Create a .env file with the following contents:
 
 OPENAI_API_KEY=your-api-key-here
 
 --- 
-4**Run the Playground:**
+4.**Run the Playground:**
 
 node playground.js
 The script will generate combinations of parameters and output results to output.json.
